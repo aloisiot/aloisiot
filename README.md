@@ -1,4 +1,4 @@
-# Ola 👋, sou o Aloísio! 
+# Olá 👋, sou o Aloísio! 
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web FullStack
 - 📫 Contate-me atravez do email: aloisiot.c98@gmail.com
