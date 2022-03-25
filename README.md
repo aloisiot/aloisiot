@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web FullStack com foco em backend;
 - 📫 Contate-me atravez do email: contato@aloisiot.dev;
 
-## Algumas das minhas skills tecnicas
+## Algumas das minhas skills
 - Backend: no backend possuo conhecimento nas stacks **Java**, **Spring Boot**, **Spring Security**, **Spring Dara JPA**, **Hibernate**;
 - Banco de dados: conhecimento da linguagem **SQL** e do **paradigma relacional**, bem como o banco de dados **MySQL**;
 - Frontend: **React**, **Javascript** e **Typescript** são as minhas principais ferramentas no front; bibliotecas de componentes e design como **Bootstrap** e **Ant Design** e preprocessadores **CSS** como **LESS** e **SASS** tambem fazem parte do meu sinto de utilidades;
