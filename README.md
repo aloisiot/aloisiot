@@ -1,7 +1,15 @@
 # Olá 👋, sou o Aloísio! 
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web FullStack
-- 📫 Contate-me atravez do email: contato@aloisiot.dev
+- 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Doctum e seguindo a trilha Certified Tech Developer pela Digital House;
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web FullStack com foco em backend;
+- 📫 Contate-me atravez do email: contato@aloisiot.dev;
+
+Algumas das minhas skills tecnicas
+- Backend: no backend possuo conhecimento nas stacks Java, Spring Boot, Spring Security, Spring Dara JPA, Hibernate;
+- Banco de dados: conhecimento da linguagem SQL e do paradigma relacional, bem como o banco de dados MySQL;
+- Frontend: React, Javascript e Typescript são as minhas principais ferramentas no front; bibliotecas de componentes e design como Bootstrap e Ant Design e preprocessadores CSS como LESS e SASS tambem fazem parte do meu sinto de utilidades;
+
+🌱 Scrum e metodologias ágeis são competências em desenvolvimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
