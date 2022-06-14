@@ -21,8 +21,8 @@
   <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
-
-<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Silvanoeng&repo=Silvanoeng&countColorcountColor&style=flat">
+<br>
+<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=aloisiot&repo=aloisiot&countColorcountColor&style=flat">
 
 ---
 
