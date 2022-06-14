@@ -11,6 +11,9 @@
 
 🌱 **Scrum** e **metodologias ágeis** são competências em desenvolvimento.
 
+<br>
+<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=aloisiot&repo=aloisiot&countColorcountColor&style=flat">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
@@ -21,10 +24,6 @@
   <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
-
----
-<br>
-<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=aloisiot&repo=aloisiot&countColorcountColor&style=flat">
 
 ---
 
