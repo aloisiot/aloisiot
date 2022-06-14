@@ -23,7 +23,6 @@
 </div>
 
 ---
-
 <br>
 <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=aloisiot&repo=aloisiot&countColorcountColor&style=flat">
 
