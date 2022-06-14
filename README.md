@@ -22,6 +22,8 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
+<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Silvanoeng&repo=Silvanoeng&countColorcountColor&style=flat">
+
 ---
 
 <div align="center">
