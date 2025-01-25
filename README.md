@@ -1,6 +1,6 @@
 # Olá, meu nome é Aloísio! 
 
-- 🧑‍🎓 Cursando MBA em Engenharia de Sóftware na USP Esalq;
+- 🧑‍🎓 Graduado em Analise e Desenvolvimento de Sistemas; cursando MBA Engenharia de Software na USP Esalq;
 - 📫 Contate-me atravez do email: contato@aloisiot.dev;
 
 ## Minhas principais competências
