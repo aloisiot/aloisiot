@@ -3,7 +3,7 @@
 - 🧑‍🎓 Cursando MBA em Engenharia de Sóftware na USP Esalq;
 - 📫 Contate-me atravez do email: contato@aloisiot.dev;
 
-## Algumas das minhas skills
+## Minhas principais competências
 - Backend: no backend possuo conhecimento nas stacks **Java**, **Spring Boot**, **Node JS** e **Typescript**;
 - Banco de dados: conhecimento da linguagem **SQL** e do **paradigma relacional**, bem como o banco de dados **MySQL** e **Oracle SQL**;
 - Frontend: **Angular** e **Javascript** são as minhas principais habilidades no front; bibliotecas de componentes e CSS como **Tailwind**, **Bootstrap** e **SASS** também fazem parte das minhas competências;
