@@ -1,8 +1,8 @@
 # Olá, meu nome é Aloísio! 
 
-- 🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas, MBA Engenharia de Software na USP Esalq
-- 📫 Contate-me atravez do email: contato@aloisiot.dev
+- 🧑‍🎓 Graduated in Analyses e Development de Systems, MBA Software Engineering by USP Esalq
 - 🧑‍💻 +4 years of experience as a full-stack developer working mainly with Java, SpringBoot and Angular
+- 📫 Get in touch through contato@aloisiot.dev
 <br>
 
 <div style="display: inline_block"><br>
