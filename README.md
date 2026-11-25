@@ -2,7 +2,6 @@
 
 - 🧑‍🎓 Graduated in Analyses e Development of Systems, MBA Software Engineering by USP Esalq
 - 🧑‍💻 +4 years of experience as a full-stack developer working mainly with Java, SpringBoot and Angular
-- 📫 Get in touch through contato@aloisiot.dev
 <br>
 
 <div style="display: inline_block"><br>
